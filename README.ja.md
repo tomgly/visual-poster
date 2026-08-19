@@ -21,6 +21,7 @@
 | 7 | `observational-field-notes` | 手描き観察ノート、部分図、断片、注釈 |
 | 8 | `pastel-impossible-geometry` | 明るいパステル3D、不可能空間、詩的な幾何構成 |
 | 9 | `archival-halftone-minimalism` | シルクスクリーン、網点、大きな余白、編集的タイポグラフィ |
+| 10 | `minimal-geometric-editorial` | 識別可能な輪郭、簡潔な幾何学形状、フラットな色面、細線、大きな余白による高級ミニマル表現 |
 
 詳細は [`sources/00_style_index.md`](sources/00_style_index.md) を参照してください。
 

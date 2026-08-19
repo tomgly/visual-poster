@@ -21,6 +21,7 @@ A reusable prompt system for transforming photos or themes into distinct editori
 | 7 | `observational-field-notes` | Hand-drawn visual notes, fragments, annotations, and observational details |
 | 8 | `pastel-impossible-geometry` | Clean pastel 3D geometry and poetic impossible spaces |
 | 9 | `archival-halftone-minimalism` | Silkscreen, halftone, large negative space, and archival editorial typography |
+| 10 | `minimal-geometric-editorial` | Recognizable contours, concise geometry, flat color fields, thin linework, and generous negative space |
 
 See [`sources/00_style_index.md`](sources/00_style_index.md) for the full style index.
 

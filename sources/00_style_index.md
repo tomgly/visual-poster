@@ -13,6 +13,7 @@ Canonical registry of Visual Poster style presets.
 | `observational-field-notes` | Observational Field Notes | Small illustrated fragments, handwritten annotations, and visual notebook rhythm | [`16_observational-field-notes.md`](styles/16_observational-field-notes.md) |
 | `pastel-impossible-geometry` | Pastel Impossible Geometry | Clean pastel 3D geometry translating subjects into poetic impossible spaces | [`17_pastel-impossible-geometry.md`](styles/17_pastel-impossible-geometry.md) |
 | `archival-halftone-minimalism` | Archival Halftone Minimalism | One visual anchor, huge negative space, limited ink colors, silkscreen, and halftone | [`18_archival-halftone-minimalism.md`](styles/18_archival-halftone-minimalism.md) |
+| `minimal-geometric-editorial` | Minimal Geometric Editorial | Recognizable subjects reduced to concise geometry, flat color fields, thin linework, and premium editorial negative space | [`19_minimal-geometric-editorial.md`](styles/19_minimal-geometric-editorial.md) |
 
 ## Aliases
 
@@ -28,6 +29,7 @@ paper cover         → poetic-paper-cover
 field notes         → observational-field-notes
 pastel geometry     → pastel-impossible-geometry
 archival halftone   → archival-halftone-minimalism
+minimal geometric   → minimal-geometric-editorial
 ```
 
 If no preset is named, select the closest preset from the user's visual description.
