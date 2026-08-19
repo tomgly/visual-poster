@@ -31,8 +31,6 @@ See [`sources/00_style_index.md`](sources/00_style_index.md) for the full style 
 3. Upload all Markdown files inside [`sources/`](sources/) to **Project Sources**.
 4. Upload a photo or provide a theme, then specify a style and output mode.
 
-`README.md` and `README.ja.md` do not need to be added to Project Sources.
-
 ## Usage
 
 Short instructions are enough:

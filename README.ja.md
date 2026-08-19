@@ -24,14 +24,12 @@
 
 詳細は [`sources/00_style_index.md`](sources/00_style_index.md) を参照してください。
 
-## ChatGPT Project のセットアップ
+## ChatGPTプロジェクトの設定
 
-1. ChatGPTで新しいProjectを作成します。
-2. [`PROJECT_INSTRUCTIONS.md`](PROJECT_INSTRUCTIONS.md) の内容を **Project Instructions** に貼り付けます。
-3. [`sources/`](sources/) 内のMarkdownファイルをすべて **Project Sources** に追加します。
+1. ChatGPTで新しいプロジェクトを作成します。
+2. [`PROJECT_INSTRUCTIONS.md`](PROJECT_INSTRUCTIONS.md) の内容を **指示** に貼り付けます。
+3. [`sources/`](sources/) 内のMarkdownファイルをすべて **情報源** に追加します。
 4. 写真をアップロードするかテーマを入力し、スタイルと出力モードを指定します。
-
-`README.md` と `README.ja.md` をProject Sourcesへ追加する必要はありません。
 
 ## 使い方
 
